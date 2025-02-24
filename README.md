@@ -1,2 +1,3 @@
 # Erikk-Webflow
-working on it
+fully responsive website. 
+languages - html and scss
